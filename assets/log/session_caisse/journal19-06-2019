@@ -1,0 +1,44 @@
+*19-06-2019 04:46:13: Enlevement d'un montant de 417000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+417000
+
+*19-06-2019 04:46:50: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*19-06-2019 04:47:07: Enlevement d'un montant de 1000000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+1000000
+
+*19-06-2019 08:02:36: Caisse Fermée par *BOUDEBES *CLAIREAMINATA *CAISSIER
+
+*19-06-2019 08:03:42: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*19-06-2019 08:03:52: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*19-06-2019 08:03:59: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1031           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*19-06-2019 11:24:52: Enlevement d'un montant de 250000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+250000
+
+*19-06-2019 17:24:21: Enlevement d'un montant de 750000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+750000
+
+*19-06-2019 18:00:40: Caisse Fermée par *NGUESSAN *NADEGE *CAISSIER
+
+*19-06-2019 18:05:16: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*19-06-2019 18:05:42: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*19-06-2019 18:05:50: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1023           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*19-06-2019 19:07:47: Compte Client Nº  12760893861 Crédité de *100000 par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*19-06-2019 22:59:09: Enlevement d'un montant de 790000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+790000
+

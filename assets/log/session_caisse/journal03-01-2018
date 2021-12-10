@@ -1,0 +1,46 @@
+*03-01-2018 00:10:22: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*03-01-2018 00:11:23: Enlevement d'un montant de 203000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+203000
+
+*03-01-2018 05:50:36: Enlevement d'un montant de 430000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+430000
+
+*03-01-2018 07:56:52: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*03-01-2018 07:59:51: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*03-01-2018 08:01:20: Caisse Fermée par *KONAN *MARIESANDRINE *CAISSIER
+
+*03-01-2018 08:04:23: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*03-01-2018 08:05:56: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*03-01-2018 08:06:04: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1040           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*03-01-2018 12:53:12: Enlevement d'un montant de 1000000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+1000000
+
+*03-01-2018 14:49:17: Enlevement d'un montant de 250000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+250000
+
+*03-01-2018 17:56:01: Caisse Fermée par *ZAGRE *IRENE *CAISSIER
+
+*03-01-2018 17:59:07: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*03-01-2018 17:59:36: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*03-01-2018 18:00:01: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1010           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+

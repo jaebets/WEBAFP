@@ -1,0 +1,44 @@
+*31-03-2019 08:04:44: Caisse Fermée par *ACHI *SERIKPAKADJARACHELLE *CAISSIER
+
+*31-03-2019 08:14:13: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*31-03-2019 08:14:20: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*31-03-2019 08:14:28: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1031           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*31-03-2019 13:06:33: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*31-03-2019 13:06:56: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*31-03-2019 13:13:22: Enlevement d'un montant de 1890000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+1890000
+
+*31-03-2019 17:02:48: Enlevement d'un montant de 770000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+770000
+
+*31-03-2019 17:56:14: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*31-03-2019 18:00:26: Caisse Fermée par *NGUESSAN *NADEGE *CAISSIER
+
+*31-03-2019 18:01:28: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*31-03-2019 18:01:36: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*31-03-2019 18:01:53: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1010           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*31-03-2019 21:05:25: Enlevement d'un montant de 800000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+800000
+
+*31-03-2019 21:58:24: Enlevement d'un montant de 650000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+650000
+

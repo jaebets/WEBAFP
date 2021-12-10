@@ -1,0 +1,42 @@
+*06-12-2019 08:00:33: Caisse Fermée par *ZAGRE *IRENE *CAISSIER
+
+*06-12-2019 08:04:11: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*06-12-2019 08:04:19: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*06-12-2019 08:04:26: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1023           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*06-12-2019 12:46:04: Enlevement d'un montant de 400000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+400000
+
+*06-12-2019 14:47:04: Enlevement d'un montant de 450000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+450000
+
+*06-12-2019 17:34:15: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*06-12-2019 17:37:08: Enlevement d'un montant de 380000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+380000
+
+*06-12-2019 17:54:46: Erreur dans la tentative de fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*06-12-2019 17:59:56: Erreur dans la tentative de fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*06-12-2019 18:00:27: Caisse Fermée par *ATTOBRA *CLARISSE *CAISSIER
+
+*06-12-2019 18:01:35: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*06-12-2019 18:01:41: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*06-12-2019 18:01:49: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+

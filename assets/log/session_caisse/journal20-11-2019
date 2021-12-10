@@ -1,0 +1,52 @@
+*20-11-2019 00:29:00: Enlevement d'un montant de 251000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+251000
+
+*20-11-2019 06:51:51: Enlevement d'un montant de 560000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+560000
+
+*20-11-2019 07:58:21: Caisse Fermée par *ZAGRE *IRENE *CAISSIER
+
+*20-11-2019 08:00:40: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*20-11-2019 08:00:51: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*20-11-2019 08:01:03: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1023           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*20-11-2019 13:03:52: Enlevement d'un montant de 270000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+270000
+
+*20-11-2019 16:59:34: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*20-11-2019 16:59:48: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*20-11-2019 17:32:36: Enlevement d'un montant de 580000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+580000
+
+*20-11-2019 17:56:58: Erreur dans la tentative de fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*20-11-2019 17:58:14: Caisse Fermée par *ATTOBRA *CLARISSE *CAISSIER
+
+*20-11-2019 18:01:01: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*20-11-2019 18:01:12: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*20-11-2019 18:01:24: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*20-11-2019 21:23:39: Enlevement d'un montant de 370000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+370000
+
+*20-11-2019 23:15:08: Enlevement d'un montant de 350000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+350000
+

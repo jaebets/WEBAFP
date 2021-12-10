@@ -1,0 +1,50 @@
+*16-05-2018 00:07:49: Enlevement d'un montant de 265000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+265000
+
+*16-05-2018 07:03:20: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*16-05-2018 07:03:36: Enlevement d'un montant de 740000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+740000
+
+*16-05-2018 07:59:36: Caisse Fermée par *KONAN *MARIESANDRINE *CAISSIER
+
+*16-05-2018 08:02:42: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*16-05-2018 08:02:42: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*16-05-2018 08:02:50: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*16-05-2018 08:03:04: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1023           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*16-05-2018 10:01:57: Enlevement d'un montant de 400000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+400000
+
+*16-05-2018 16:13:06: Enlevement d'un montant de 610000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+610000
+
+*16-05-2018 17:58:17: Caisse Fermée par *ATTOBRA *CLARISSE *CAISSIER
+
+*16-05-2018 18:03:14: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*16-05-2018 18:04:26: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*16-05-2018 18:04:40: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1040           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*16-05-2018 20:43:50: Enlevement d'un montant de 440000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+440000
+
+*16-05-2018 23:31:13: Enlevement d'un montant de 360000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+360000
+

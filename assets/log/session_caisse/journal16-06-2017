@@ -1,0 +1,46 @@
+*16-06-2017 07:57:34: Caisse Fermée par *ATTOBRA *CLARISSE *CAISSIER
+
+*16-06-2017 07:57:56: Caisse Fermée par *NGUESSAN *BAHSONIA *CAISSIER
+
+*16-06-2017 08:00:07: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*16-06-2017 08:00:07: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*16-06-2017 08:00:07: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*16-06-2017 08:02:05: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*16-06-2017 08:02:20: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1010           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*16-06-2017 10:21:33: Enlevement d'un montant de 300000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+300000
+
+*16-06-2017 10:33:37: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1050           *ID CAISSE = CA012            *MONTANT POURVU = 0
+
+*16-06-2017 14:52:27: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+200000
+
+*16-06-2017 17:59:22: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*16-06-2017 18:00:57: Fermeture de la session caisse par * * *
+
+*16-06-2017 18:00:57: Erreur dans la tentative de fermeture de la session caisse par * * *
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*16-06-2017 18:02:37: Nouvelle Session Caisse Ouverte par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*16-06-2017 18:02:59: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*ID USER = UT1013           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*16-06-2017 18:03:29: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*ID USER = UT1029           *ID CAISSE = CA012            *MONTANT POURVU = 50000
+

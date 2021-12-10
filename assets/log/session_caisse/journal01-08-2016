@@ -1,0 +1,28 @@
+*01-08-2016 07:47:23: Erreur dans la tentative de fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*01-08-2016 07:49:01: Caisse Fermée par *COULIBALY *MADIATA *CAISSIER
+
+*01-08-2016 07:49:01: Fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+*01-08-2016 07:50:43: Nouvelle Session Caisse Ouverte par *KONE *YAHI *RESPONSABLECAISSE
+
+*01-08-2016 07:51:11: Affectation d'une caisse au niveau du site STATION DE OUANGOLODOUGOU par *KONE *YAHI *RESPONSABLECAISSE
+
+*ID USER = UT6059           *ID CAISSE = CA061            *MONTANT POURVU = 60000
+
+*01-08-2016 10:36:48: Enlevement d'un montant de 650000 sur la caisse (ID CAISSE = CA061)par *KONE *YAHI *RESPONSABLECAISSE
+
+650000
+
+*01-08-2016 17:45:45: Caisse Fermée par *COULIBALY *DJENEBA *CAISSIER
+
+*01-08-2016 17:46:42: Fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+*01-08-2016 17:48:25: Nouvelle Session Caisse Ouverte par *KONE *YAHI *RESPONSABLECAISSE
+
+*01-08-2016 17:48:42: Affectation d'une caisse au niveau du site STATION DE OUANGOLODOUGOU par *KONE *YAHI *RESPONSABLECAISSE
+
+*ID USER = UT6060           *ID CAISSE = CA061            *MONTANT POURVU = 55000
+

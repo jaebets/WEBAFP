@@ -1,0 +1,34 @@
+*23-12-2017 08:01:41: Caisse Fermée par *NGUESSAN *NADEGE *CAISSIER
+
+*23-12-2017 08:02:55: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*23-12-2017 08:03:09: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*23-12-2017 08:03:21: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*23-12-2017 14:13:37: Enlevement d'un montant de 1350000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+1350000
+
+*23-12-2017 16:14:12: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*23-12-2017 16:15:04: Enlevement d'un montant de 430000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+430000
+
+*23-12-2017 17:32:16: Enlevement d'un montant de 365000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+365000
+
+*23-12-2017 17:58:43: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+
+*23-12-2017 18:04:03: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*23-12-2017 18:05:06: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*23-12-2017 18:05:20: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1029           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+

@@ -1,0 +1,50 @@
+*03-10-2020 00:01:28: Enlevement d'un montant de 126500 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+126500
+
+*03-10-2020 07:58:09: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*03-10-2020 08:05:18: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*03-10-2020 08:07:17: Caisse Fermée par *AHISSAN *AMAANGEMARIE *CAISSIER
+
+*03-10-2020 08:07:52: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*03-10-2020 08:08:18: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*03-10-2020 08:08:45: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT10111          *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*03-10-2020 09:10:06: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *BOHOUSSOU *ARMELLENDRI *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA012            *MONTANT POURVU = 0
+
+*03-10-2020 12:59:35: Enlevement d'un montant de 680000 sur la caisse (ID CAISSE = CA011)par *BOHOUSSOU *ARMELLENDRI *RESPONSABLECAISSE
+
+680000
+
+*03-10-2020 16:08:57: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *BOHOUSSOU *ARMELLENDRI *RESPONSABLECAISSE
+
+*03-10-2020 16:09:34: Enlevement d'un montant de 420000 sur la caisse (ID CAISSE = CA011)par *BOHOUSSOU *ARMELLENDRI *RESPONSABLECAISSE
+
+420000
+
+*03-10-2020 17:55:18: Caisse Fermée par *ABOUET *OMONJEANNINE *CAISSIER
+
+*03-10-2020 17:59:37: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+
+*03-10-2020 17:59:57: Fermeture de la session caisse par *BOHOUSSOU *ARMELLENDRI *RESPONSABLECAISSE
+
+*03-10-2020 17:59:57: Fermeture de la session caisse par *BOHOUSSOU *ARMELLENDRI *RESPONSABLECAISSE
+
+*03-10-2020 18:00:02: Nouvelle Session Caisse Ouverte par *BOHOUSSOU *ARMELLENDRI *RESPONSABLECAISSE
+
+*03-10-2020 18:00:19: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *BOHOUSSOU *ARMELLENDRI *RESPONSABLECAISSE
+
+*ID USER = UT10113          *ID CAISSE = CA011            *MONTANT POURVU = 50000
+

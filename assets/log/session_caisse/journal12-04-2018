@@ -1,0 +1,48 @@
+*12-04-2018 05:00:46: Enlevement d'un montant de 850000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+850000
+
+*12-04-2018 07:55:08: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*12-04-2018 08:01:33: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*12-04-2018 08:01:33: Caisse Fermée par *MONNEY *BEATRICE *CAISSIER
+
+*12-04-2018 08:02:02: Fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*12-04-2018 08:02:15: Nouvelle Session Caisse Ouverte par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*12-04-2018 08:02:25: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*12-04-2018 12:56:19: Enlevement d'un montant de 1100000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+1100000
+
+*12-04-2018 17:11:54: Enlevement d'un montant de 850000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+850000
+
+*12-04-2018 18:01:22: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+
+*12-04-2018 18:02:22: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*12-04-2018 18:03:51: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*12-04-2018 18:03:57: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1010           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*12-04-2018 19:47:23: Enlevement d'un montant de 550000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+550000
+
+*12-04-2018 21:40:28: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*12-04-2018 21:40:51: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+

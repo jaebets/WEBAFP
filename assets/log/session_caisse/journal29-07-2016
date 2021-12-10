@@ -1,0 +1,42 @@
+*29-07-2016 08:27:53: Caisse Fermée par *COULIBALY *MADIATA *CAISSIER
+
+*29-07-2016 08:29:29: Caisse Fermée par *COULIBALY *MADIATA *CAISSIER
+
+*29-07-2016 08:34:39: Fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+*29-07-2016 08:37:03: Fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+*29-07-2016 08:40:44: Fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+*29-07-2016 08:57:53: Fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+*29-07-2016 08:59:31: Fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+*29-07-2016 08:59:50: Nouvelle Session Caisse Ouverte par *KONE *YAHI *RESPONSABLECAISSE
+
+*29-07-2016 09:00:05: Affectation d'une caisse au niveau du site STATION DE OUANGOLODOUGOU par *KONE *YAHI *RESPONSABLECAISSE
+
+*ID USER = UT6059           *ID CAISSE = CA061            *MONTANT POURVU = 60000
+
+*29-07-2016 11:22:07: Enlevement d'un montant de 700000 sur la caisse (ID CAISSE = CA061)par *KONE *YAHI *RESPONSABLECAISSE
+
+700000
+
+*29-07-2016 14:16:58: Enlevement d'un montant de 1000000 sur la caisse (ID CAISSE = CA061)par *KONE *YAHI *RESPONSABLECAISSE
+
+1000000
+
+*29-07-2016 17:47:11: Erreur dans la tentative de fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*29-07-2016 17:47:49: Caisse Fermée par *COULIBALY *DJENEBA *CAISSIER
+
+*29-07-2016 17:51:32: Fermeture de la session caisse par *KONE *YAHI *RESPONSABLECAISSE
+
+*29-07-2016 17:54:38: Nouvelle Session Caisse Ouverte par *KONE *YAHI *RESPONSABLECAISSE
+
+*29-07-2016 17:55:06: Affectation d'une caisse au niveau du site STATION DE OUANGOLODOUGOU par *KONE *YAHI *RESPONSABLECAISSE
+
+*ID USER = UT6061           *ID CAISSE = CA061            *MONTANT POURVU = 50000
+

@@ -1,0 +1,40 @@
+*27-09-2019 00:07:50: Enlevement d'un montant de 405000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+405000
+
+*27-09-2019 07:38:34: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*27-09-2019 07:38:56: Enlevement d'un montant de 440000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+440000
+
+*27-09-2019 07:51:56: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*27-09-2019 07:58:39: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*27-09-2019 07:58:45: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*27-09-2019 07:58:52: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1040           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*27-09-2019 11:48:27: Enlevement d'un montant de 350000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+350000
+
+*27-09-2019 16:38:25: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+200000
+
+*27-09-2019 17:50:53: Caisse Fermée par *ZAGRE *IRENE *CAISSIER
+
+*27-09-2019 17:50:55: Caisse Fermée par *ZAGRE *IRENE *CAISSIER
+
+*27-09-2019 17:52:40: Fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*27-09-2019 17:52:45: Nouvelle Session Caisse Ouverte par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*27-09-2019 17:52:54: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*ID USER = UT1013           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+

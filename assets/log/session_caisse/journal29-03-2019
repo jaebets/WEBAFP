@@ -1,0 +1,50 @@
+*29-03-2019 00:14:56: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*29-03-2019 00:15:14: Enlevement d'un montant de 466500 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+466500
+
+*29-03-2019 01:09:43: Enlevement d'un montant de 420000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+420000
+
+*29-03-2019 07:14:35: Enlevement d'un montant de 1080000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+1080000
+
+*29-03-2019 08:00:05: Caisse Fermée par *ZAGRE *IRENE *CAISSIER
+
+*29-03-2019 08:08:12: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*29-03-2019 08:08:21: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*29-03-2019 08:08:38: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1013           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*29-03-2019 10:48:27: Enlevement d'un montant de 500000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+500000
+
+*29-03-2019 13:10:00: Enlevement d'un montant de 300000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+300000
+
+*29-03-2019 15:41:03: Enlevement d'un montant de 350000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+350000
+
+*29-03-2019 17:57:23: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*29-03-2019 18:03:47: Caisse Fermée par *ACHI *SERIKPAKADJARACHELLE *CAISSIER
+
+*29-03-2019 18:04:44: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*29-03-2019 18:04:51: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*29-03-2019 18:05:09: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1023           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+

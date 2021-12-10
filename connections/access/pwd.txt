@@ -1,0 +1,3 @@
+<?php
+$pwd = "masterkey";
+?>

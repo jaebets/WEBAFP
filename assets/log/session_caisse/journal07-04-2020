@@ -1,0 +1,32 @@
+*07-04-2020 07:54:18: Caisse Fermée par *AKA *ADJOBAMARIEAUDE *CAISSIER
+
+*07-04-2020 07:56:28: Fermeture de la session caisse par *GRAH *BEKEYONMARIEFRANCE *RESPONSABLECAISSE
+
+*07-04-2020 07:56:28: Fermeture de la session caisse par *GRAH *BEKEYONMARIEFRANCE *RESPONSABLECAISSE
+
+*07-04-2020 07:56:39: Nouvelle Session Caisse Ouverte par *GRAH *BEKEYONMARIEFRANCE *RESPONSABLECAISSE
+
+*07-04-2020 07:57:31: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *GRAH *BEKEYONMARIEFRANCE *RESPONSABLECAISSE
+
+*ID USER = UT10113          *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*07-04-2020 14:32:52: Enlevement d'un montant de 1100000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+1100000
+
+*07-04-2020 18:01:37: Caisse Fermée par *KOUAHORO *AMAELLELAETITIA *CAISSIER
+
+*07-04-2020 18:07:12: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*07-04-2020 18:13:00: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*07-04-2020 18:13:52: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1094           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*07-04-2020 22:31:16: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*07-04-2020 22:31:28: Enlevement d'un montant de 631000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+631000
+

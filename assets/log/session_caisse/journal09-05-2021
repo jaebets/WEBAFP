@@ -1,0 +1,36 @@
+*09-05-2021 07:53:57: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*09-05-2021 07:56:27: Caisse Fermée par *ZONGO *MARIAM *CAISSIER
+
+*09-05-2021 08:00:20: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*09-05-2021 08:00:26: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*09-05-2021 08:00:42: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1090           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*09-05-2021 15:36:06: Enlevement d'un montant de 1300000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+1300000
+
+*09-05-2021 17:57:11: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*09-05-2021 17:59:30: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*09-05-2021 18:01:09: Caisse Fermée par *YAO *BAUNHYAMENAN *CAISSIER
+
+*09-05-2021 18:01:46: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*09-05-2021 18:01:52: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*09-05-2021 18:02:28: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1094           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+

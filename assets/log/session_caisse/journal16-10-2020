@@ -1,0 +1,44 @@
+*16-10-2020 08:03:03: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*16-10-2020 08:05:03: Caisse Fermée par *YAO *BAUNHYAMENAN *CAISSIER
+
+*16-10-2020 08:05:54: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*16-10-2020 08:06:01: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*16-10-2020 08:06:13: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1076           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*16-10-2020 11:40:46: Enlevement d'un montant de 730000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+730000
+
+*16-10-2020 14:26:32: Enlevement d'un montant de 430000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+430000
+
+*16-10-2020 14:43:05: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1040           *ID CAISSE = CA012            *MONTANT POURVU = 0
+
+*16-10-2020 18:00:29: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*16-10-2020 18:00:41: Caisse Fermée par *KOUAKOU *AKISSIAMELLIANEPEGNAN *CAISSIER
+
+*16-10-2020 18:05:05: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*16-10-2020 18:05:05: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*16-10-2020 18:05:10: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*16-10-2020 18:05:26: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT10111          *ID CAISSE = CA011            *MONTANT POURVU = 50000
+

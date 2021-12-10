@@ -1,0 +1,44 @@
+*06-03-2018 00:18:44: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*06-03-2018 00:19:21: Enlevement d'un montant de 433500 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+433500
+
+*06-03-2018 06:19:00: Enlevement d'un montant de 300000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+300000
+
+*06-03-2018 08:01:11: Caisse Fermée par *MONNEY *BEATRICE *CAISSIER
+
+*06-03-2018 08:02:38: Fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*06-03-2018 08:06:15: Nouvelle Session Caisse Ouverte par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*06-03-2018 08:07:03: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*ID USER = UT1037           *ID CAISSE = CA011            *MONTANT POURVU = 40000
+
+*06-03-2018 13:02:49: Enlevement d'un montant de 317500 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+317500
+
+*06-03-2018 15:52:31: Enlevement d'un montant de 376500 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+376500
+
+*06-03-2018 17:54:57: Caisse Fermée par *KONAN *MARIESANDRINE *CAISSIER
+
+*06-03-2018 17:56:05: Caisse Fermée par *KONAN *MARIESANDRINE *CAISSIER
+
+*06-03-2018 18:00:01: Fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*06-03-2018 18:00:24: Nouvelle Session Caisse Ouverte par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*06-03-2018 18:00:33: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*06-03-2018 21:35:11: Enlevement d'un montant de 720000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+720000
+

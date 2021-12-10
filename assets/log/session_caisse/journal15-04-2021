@@ -1,0 +1,52 @@
+*15-04-2021 07:53:05: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*15-04-2021 07:56:11: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*15-04-2021 07:58:16: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*15-04-2021 08:01:35: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*15-04-2021 08:02:33: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*15-04-2021 08:03:37: Caisse Fermée par *ZONGO *MARIAM *CAISSIER
+
+*15-04-2021 08:04:46: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*15-04-2021 08:04:52: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*15-04-2021 08:05:09: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1090           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*15-04-2021 12:44:31: Enlevement d'un montant de 1200000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+1200000
+
+*15-04-2021 17:19:06: Enlevement d'un montant de 1000000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+1000000
+
+*15-04-2021 17:53:35: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*15-04-2021 17:58:07: Caisse Fermée par *YAO *BAUNHYAMENAN *CAISSIER
+
+*15-04-2021 17:58:29: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*15-04-2021 18:00:04: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*15-04-2021 18:00:15: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1057           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+

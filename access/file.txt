@@ -1,0 +1,3 @@
+﻿<?php
+$link = "firebird:dbname=172.20.1.12:D:\WIMAFP\WIMDEMOEXTFILE.FDB";
+?>

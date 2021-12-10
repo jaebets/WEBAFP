@@ -1,0 +1,40 @@
+*23-10-2016 00:00:37: Caisse Fermée par *SANOGO *AWA *CAISSIER
+
+*23-10-2016 08:00:02: Caisse Fermée par *ACHI *SERIKPAKADJARACHELLE *CAISSIER
+
+*23-10-2016 08:02:31: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*23-10-2016 08:02:31: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*23-10-2016 08:03:20: Nouvelle Session Caisse Ouverte par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*23-10-2016 08:10:55: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*ID USER = UT1019           *ID CAISSE = CA011            *MONTANT POURVU = 30000
+
+*23-10-2016 10:26:49: Enlevement d'un montant de 300000 sur la caisse (ID CAISSE = CA011)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+300000
+
+*23-10-2016 17:57:39: Caisse Fermée par *KOFFI *KONANPATRICIA *CAISSIER
+
+*23-10-2016 17:58:30: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*23-10-2016 18:00:02: Nouvelle Session Caisse Ouverte par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*23-10-2016 18:00:14: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 30000
+
+*23-10-2016 18:00:38: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*ID USER = UT1031           *ID CAISSE = CA012            *MONTANT POURVU = 30000
+
+*23-10-2016 21:28:14: Enlevement d'un montant de 450000 sur la caisse (ID CAISSE = CA011)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+450000
+
+*23-10-2016 21:29:24: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*23-10-2016 23:59:48: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+

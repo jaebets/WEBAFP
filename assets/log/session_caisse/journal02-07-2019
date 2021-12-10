@@ -1,0 +1,50 @@
+*02-07-2019 01:17:41: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*02-07-2019 01:18:19: Enlevement d'un montant de 46000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+46000
+
+*02-07-2019 01:18:36: Enlevement d'un montant de 190000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+190000
+
+*02-07-2019 06:40:10: Enlevement d'un montant de 520000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+520000
+
+*02-07-2019 07:57:58: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+
+*02-07-2019 08:00:54: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*02-07-2019 08:00:59: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*02-07-2019 08:01:09: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1029           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*02-07-2019 10:22:31: Enlevement d'un montant de 460000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+460000
+
+*02-07-2019 15:48:51: Enlevement d'un montant de 500000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+500000
+
+*02-07-2019 17:59:57: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*02-07-2019 18:00:12: Caisse Fermée par *MONNEY *BEATRICE *CAISSIER
+
+*02-07-2019 18:03:20: Fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*02-07-2019 18:03:32: Nouvelle Session Caisse Ouverte par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*02-07-2019 18:03:49: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*ID USER = UT1031           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*02-07-2019 21:16:03: Enlevement d'un montant de 300000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+300000
+

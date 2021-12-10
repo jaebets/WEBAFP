@@ -1,0 +1,42 @@
+*17-10-2019 08:02:27: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*17-10-2019 08:03:08: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*17-10-2019 08:03:15: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*17-10-2019 08:03:25: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1031           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*17-10-2019 13:36:07: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1047           *ID CAISSE = CA012            *MONTANT POURVU = 0
+
+*17-10-2019 14:32:15: Enlevement d'un montant de 300000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+300000
+
+*17-10-2019 17:24:39: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*17-10-2019 17:24:53: Enlevement d'un montant de 100000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+100000
+
+*17-10-2019 17:57:44: Caisse Fermée par *NGUESSAN *NADEGE *CAISSIER
+
+*17-10-2019 17:59:07: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*17-10-2019 17:59:07: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*17-10-2019 17:59:42: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*17-10-2019 18:00:22: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1037           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*17-10-2019 20:50:26: Enlevement d'un montant de 480000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+480000
+

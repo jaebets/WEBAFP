@@ -1,0 +1,40 @@
+*27-05-2018 07:53:43: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*27-05-2018 08:01:02: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*27-05-2018 08:01:11: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*27-05-2018 08:01:19: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1031           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*27-05-2018 14:42:09: Enlevement d'un montant de 550000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+550000
+
+*27-05-2018 17:15:33: Enlevement d'un montant de 300000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+300000
+
+*27-05-2018 17:15:49: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*27-05-2018 18:02:42: Caisse Fermée par *NGUESSAN *NADEGE *CAISSIER
+
+*27-05-2018 18:02:48: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*27-05-2018 18:02:58: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*27-05-2018 18:03:16: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*27-05-2018 18:05:40: Caisse Fermée par *NGUESSAN *NADEGE *CAISSIER
+
+*27-05-2018 18:12:03: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*27-05-2018 18:12:16: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*27-05-2018 18:12:36: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+

@@ -1,0 +1,48 @@
+*07-03-2021 07:03:10: Enlevement d'un montant de 47000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+47000
+
+*07-03-2021 07:19:47: Enlevement d'un montant de 800000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+800000
+
+*07-03-2021 08:00:27: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*07-03-2021 08:02:20: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*07-03-2021 08:02:42: Caisse Fermée par *ZONGO *MARIAM *CAISSIER
+
+*07-03-2021 08:06:46: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*07-03-2021 08:09:17: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*07-03-2021 08:09:40: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT10111          *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*07-03-2021 13:53:05: Enlevement d'un montant de 1050000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+1050000
+
+*07-03-2021 16:45:33: Enlevement d'un montant de 850000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+850000
+
+*07-03-2021 17:57:20: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*07-03-2021 17:59:06: Caisse Fermée par *ABOUET *OMONJEANNINE *CAISSIER
+
+*07-03-2021 17:59:53: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*07-03-2021 18:00:01: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*07-03-2021 18:00:16: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1090           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+

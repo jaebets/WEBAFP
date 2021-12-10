@@ -1,0 +1,52 @@
+*02-12-2016 08:03:24: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*02-12-2016 08:06:18: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*02-12-2016 08:06:18: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*02-12-2016 08:06:40: Nouvelle Session Caisse Ouverte par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*02-12-2016 08:06:52: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*ID USER = UT1037           *ID CAISSE = CA011            *MONTANT POURVU = 40000
+
+*02-12-2016 09:19:30: Enlevement d'un montant de 250000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+250000
+
+*02-12-2016 10:35:51: Enlevement d'un montant de 450000 sur la caisse (ID CAISSE = CA011)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+450000
+
+*02-12-2016 12:07:49: Enlevement d'un montant de 300000 sur la caisse (ID CAISSE = CA011)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+300000
+
+*02-12-2016 15:00:28: Enlevement d'un montant de 250000 sur la caisse (ID CAISSE = CA011)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+250000
+
+*02-12-2016 15:56:07: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*02-12-2016 15:56:30: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*02-12-2016 15:57:02: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*02-12-2016 16:48:22: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+200000
+
+*02-12-2016 17:56:49: Caisse Fermée par *KONAN *MARIESANDRINE *CAISSIER
+
+*02-12-2016 18:02:39: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*02-12-2016 18:02:51: Nouvelle Session Caisse Ouverte par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*02-12-2016 18:03:00: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*ID USER = UT1031           *ID CAISSE = CA011            *MONTANT POURVU = 40000
+
+*02-12-2016 18:03:33: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA012            *MONTANT POURVU = 40000
+

@@ -1,0 +1,32 @@
+*20-07-2018 00:21:37: Enlevement d'un montant de 16500 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *CAISSIER
+
+16500
+
+*20-07-2018 07:58:30: Caisse Fermée par *ZAGRE *IRENE *CAISSIER
+
+*20-07-2018 08:02:10: Caisse Fermée par *KOFFI *KONANPATRICIA *CAISSIER
+
+*20-07-2018 08:02:26: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *CAISSIER
+
+*20-07-2018 08:02:26: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *CAISSIER
+
+*20-07-2018 08:02:35: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *CAISSIER
+
+*20-07-2018 08:02:43: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *CAISSIER
+
+*ID USER = UT1013           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*20-07-2018 17:52:12: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*20-07-2018 17:54:56: Caisse Fermée par *ACHI *SERIKPAKADJARACHELLE *CAISSIER
+
+*20-07-2018 17:59:12: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*20-07-2018 17:59:20: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*20-07-2018 17:59:33: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1023           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+

@@ -1,0 +1,38 @@
+*11-02-2018 08:05:53: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+
+*11-02-2018 08:07:00: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*11-02-2018 08:07:09: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*11-02-2018 08:07:17: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1010           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*11-02-2018 11:29:14: Enlevement d'un montant de 250000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+250000
+
+*11-02-2018 16:51:03: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*11-02-2018 16:52:52: Enlevement d'un montant de 900000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+900000
+
+*11-02-2018 17:49:38: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*11-02-2018 17:53:07: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*11-02-2018 17:53:16: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*11-02-2018 17:53:24: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1037           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*11-02-2018 20:57:29: Enlevement d'un montant de 437500 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+437500
+
+*11-02-2018 23:56:16: Enlevement d'un montant de 195000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+195000
+

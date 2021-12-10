@@ -1,0 +1,92 @@
+*20-03-2017 00:00:29: Caisse Fermée par *NGUESSAN *NADEGE *CAISSIER
+
+*20-03-2017 00:57:24: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*ID USER = UT1048           *ID CAISSE = CA013            *MONTANT POURVU = 0
+
+*20-03-2017 01:23:01: Enlevement d'un montant de 650000 sur la caisse (ID CAISSE = CA012)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+650000
+
+*20-03-2017 02:52:32: Enlevement d'un montant de 600000 sur la caisse (ID CAISSE = CA012)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+600000
+
+*20-03-2017 04:19:13: Enlevement d'un montant de 500000 sur la caisse (ID CAISSE = CA012)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+500000
+
+*20-03-2017 06:50:58: Enlevement d'un montant de 900000 sur la caisse (ID CAISSE = CA012)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+900000
+
+*20-03-2017 08:01:27: Caisse Fermée par *KOFFI *KONANPATRICIA *CAISSIER
+
+*20-03-2017 08:02:31: Caisse Fermée par *AKA *ADJAUDDENISE *CAISSIER
+
+*20-03-2017 08:02:55: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*20-03-2017 08:02:55: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*20-03-2017 08:02:55: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*20-03-2017 08:07:15: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*20-03-2017 08:07:28: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1010           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*20-03-2017 09:08:14: Enlevement d'un montant de 500000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+500000
+
+*20-03-2017 09:24:59: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+200000
+
+*20-03-2017 11:02:22: Enlevement d'un montant de 800000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+800000
+
+*20-03-2017 11:54:25: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+200000
+
+*20-03-2017 13:43:11: Enlevement d'un montant de 600000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+600000
+
+*20-03-2017 14:25:18: Enlevement d'un montant de 150000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+150000
+
+*20-03-2017 15:03:00: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+200000
+
+*20-03-2017 15:18:57: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1047           *ID CAISSE = CA012            *MONTANT POURVU = 0
+
+*20-03-2017 17:08:56: Enlevement d'un montant de 500000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+500000
+
+*20-03-2017 18:02:07: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*20-03-2017 18:05:00: Fermeture de la session caisse par * * *
+
+*20-03-2017 18:05:00: Erreur dans la tentative de fermeture de la session caisse par * * *
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*20-03-2017 18:06:43: Nouvelle Session Caisse Ouverte par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*20-03-2017 18:07:44: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*ID USER = UT1037           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*20-03-2017 18:09:27: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*ID USER = UT1033           *ID CAISSE = CA012            *MONTANT POURVU = 50000
+

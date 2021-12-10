@@ -1,0 +1,42 @@
+*28-04-2017 00:02:08: Caisse Fermée par *ATTOBRA *CLARISSE *CAISSIER
+
+*28-04-2017 03:42:31: Enlevement d'un montant de 450000 sur la caisse (ID CAISSE = CA012)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+450000
+
+*28-04-2017 08:00:28: Caisse Fermée par *ZAGRE *IRENE *CAISSIER
+
+*28-04-2017 08:01:40: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*28-04-2017 08:01:40: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*28-04-2017 08:01:58: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*28-04-2017 08:02:59: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1029           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*28-04-2017 12:37:43: Enlevement d'un montant de 650000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+650000
+
+*28-04-2017 16:00:30: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*28-04-2017 16:00:59: Enlevement d'un montant de 400000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+400000
+
+*28-04-2017 18:03:20: Caisse Fermée par *MONNEY *BEATRICE *CAISSIER
+
+*28-04-2017 18:04:41: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*28-04-2017 18:04:50: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*28-04-2017 18:05:02: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1013           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*28-04-2017 18:05:46: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1031           *ID CAISSE = CA012            *MONTANT POURVU = 50000
+

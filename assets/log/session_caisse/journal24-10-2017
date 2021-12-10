@@ -1,0 +1,42 @@
+*24-10-2017 00:11:06: Enlevement d'un montant de 134500 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+134500
+
+*24-10-2017 06:49:43: Enlevement d'un montant de 430000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+430000
+
+*24-10-2017 07:57:15: Caisse Fermée par *NGUESSAN *NADEGE *CAISSIER
+
+*24-10-2017 08:02:38: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*24-10-2017 08:03:43: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*24-10-2017 08:03:55: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*24-10-2017 11:26:01: Enlevement d'un montant de 280000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+280000
+
+*24-10-2017 17:57:03: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+
+*24-10-2017 18:09:26: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*24-10-2017 18:09:38: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*24-10-2017 18:09:47: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1040           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*24-10-2017 22:35:22: Enlevement d'un montant de 400000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+400000
+
+*24-10-2017 23:58:58: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*24-10-2017 23:59:28: Enlevement d'un montant de 213000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+213000
+

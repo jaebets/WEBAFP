@@ -1,0 +1,6 @@
+101 (ALLOKOI) =>  ok for all
+102 (ANYAMA)=> remain operateur_recap and intro_operateur
+103 (BONOUA)=> ok for all
+104 (DIVO)=> ok for all
+105 => not ok for all
+106 => not ok for all

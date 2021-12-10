@@ -1,0 +1,52 @@
+*14-09-2017 00:20:47: Enlevement d'un montant de 242500 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+242500
+
+*14-09-2017 04:31:36: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*14-09-2017 04:31:53: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*14-09-2017 04:32:08: Enlevement d'un montant de 410000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+410000
+
+*14-09-2017 08:05:42: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*14-09-2017 08:06:02: Fermeture de la session caisse par *NGUESSAN *ROSEDELIMAAYA *RESPONSABLECAISSE
+
+*14-09-2017 08:06:42: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*14-09-2017 08:06:54: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1023           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*14-09-2017 11:40:17: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+200000
+
+*14-09-2017 13:30:15: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+200000
+
+*14-09-2017 17:57:27: Erreur dans la tentative de fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*14-09-2017 17:59:22: Caisse Fermée par *ATTOBRA *CLARISSE *CAISSIER
+
+*14-09-2017 18:02:19: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*14-09-2017 18:03:35: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*14-09-2017 18:03:47: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1024           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+
+*14-09-2017 20:04:51: Enlevement d'un montant de 150000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+150000
+
+*14-09-2017 22:06:56: Enlevement d'un montant de 250000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+250000
+

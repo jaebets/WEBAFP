@@ -1,0 +1,32 @@
+*29-06-2018 07:57:18: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+
+*29-06-2018 08:01:43: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*29-06-2018 08:02:00: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*29-06-2018 08:02:12: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1029           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*29-06-2018 10:15:05: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *RESPONSABLECAISSE
+
+*ID USER = UT1050           *ID CAISSE = CA012            *MONTANT POURVU = 0
+
+*29-06-2018 10:41:31: Enlevement d'un montant de 450000 sur la caisse (ID CAISSE = CA011)par *KOFFI *KONANPATRICIA *CAISSIER
+
+450000
+
+*29-06-2018 17:59:55: Caisse Fermée par *MONNEY *BEATRICE *CAISSIER
+
+*29-06-2018 18:02:25: Caisse Fermée par *KOFFI *KONANPATRICIA *CAISSIER
+
+*29-06-2018 18:03:18: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *CAISSIER
+
+*29-06-2018 18:03:18: Fermeture de la session caisse par *KOFFI *KONANPATRICIA *CAISSIER
+
+*29-06-2018 18:06:43: Nouvelle Session Caisse Ouverte par *KOFFI *KONANPATRICIA *CAISSIER
+
+*29-06-2018 18:06:56: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *KOFFI *KONANPATRICIA *CAISSIER
+
+*ID USER = UT1031           *ID CAISSE = CA011            *MONTANT POURVU = 60000
+

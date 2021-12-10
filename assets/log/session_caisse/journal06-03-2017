@@ -1,0 +1,64 @@
+*06-03-2017 00:01:43: Caisse Fermée par *NGORAN *AFFIBAMARCELLE *CAISSIER
+
+*06-03-2017 05:34:58: Enlevement d'un montant de 850000 sur la caisse (ID CAISSE = CA012)par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+850000
+
+*06-03-2017 08:09:23: Caisse Fermée par *BOHOUSSOU *ARMELLENDRI *CAISSIER
+
+*06-03-2017 08:09:55: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*06-03-2017 08:09:55: Fermeture de la session caisse par *AKA *ADJAUDDENISE *RESPONSABLECAISSE
+
+*06-03-2017 08:10:50: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*06-03-2017 08:11:14: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1013           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*06-03-2017 09:07:44: Enlevement d'un montant de 200000 sur la caisse (ID CAISSE = CA011)par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+200000
+
+*06-03-2017 11:33:07: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*ID USER = UT1049           *ID CAISSE = CA012            *MONTANT POURVU = 000000
+
+*06-03-2017 12:07:54: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *COULIBALY *MAIMOUNA *RESPONSABLECAISSE
+
+*ID USER = UT1048           *ID CAISSE = CA013            *MONTANT POURVU = 0
+
+*06-03-2017 12:11:44: Caisse Fermée par *COULIBALY *MAIMOUNA *CAISSIER
+
+*06-03-2017 14:14:44: Caisse Fermée par *AKA *ADJAUDDENISE *CAISSIER
+
+*06-03-2017 14:21:38: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*06-03-2017 14:22:09: Enlevement d'un montant de 950000 sur la caisse (ID CAISSE = CA011)par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+950000
+
+*06-03-2017 18:00:30: Caisse Fermée par *ACHI *SERIKPAKADJARACHELLE *CAISSIER
+
+*06-03-2017 18:03:01: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*06-03-2017 18:03:01: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*06-03-2017 18:03:01: Fermeture de la session caisse par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*06-03-2017 18:03:11: Nouvelle Session Caisse Ouverte par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*06-03-2017 18:03:19: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1040           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*06-03-2017 18:03:35: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1023           *ID CAISSE = CA012            *MONTANT POURVU = 50000
+
+*06-03-2017 18:24:09: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *NGUESSAN *BAHSONIA *RESPONSABLECAISSE
+
+*ID USER = UT1047           *ID CAISSE = CA013            *MONTANT POURVU = 0
+
+*06-03-2017 19:21:19: Caisse Fermée par *NGUESSAN *BAHSONIA *CAISSIER
+

@@ -1,0 +1,24 @@
+*03-10-2021 08:07:25: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*03-10-2021 08:10:52: Caisse Fermée par *AKA *ADJOBAMARIEAUDE *CAISSIER
+
+*03-10-2021 08:15:15: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*03-10-2021 08:15:21: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*03-10-2021 08:15:38: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1094           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*03-10-2021 18:01:16: Caisse Fermée par *AHISSAN *AMAANGEMARIE *CAISSIER
+
+*03-10-2021 18:09:49: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*03-10-2021 18:09:56: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*03-10-2021 18:10:12: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT10111          *ID CAISSE = CA011            *MONTANT POURVU = 50000
+

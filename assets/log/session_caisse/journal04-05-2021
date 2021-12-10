@@ -1,0 +1,42 @@
+*04-05-2021 00:01:26: Enlevement d'un montant de 719000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+719000
+
+*04-05-2021 06:40:22: Le champ  montant enlevement n'a pas été correctement renseigné lors des modifications sur la caisse (ID CAISSE = CA011) par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*04-05-2021 06:41:43: Enlevement d'un montant de 650000 sur la caisse (ID CAISSE = CA011)par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+650000
+
+*04-05-2021 08:04:41: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*04-05-2021 08:05:38: Erreur dans la tentative de fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+CAUSE: FERMETURE DE SESSION SANS FERMETURE PREALABLE DES CAISSES 
+
+*04-05-2021 08:05:46: Caisse Fermée par *ABOUET *OMONJEANNINE *CAISSIER
+
+*04-05-2021 08:06:42: Fermeture de la session caisse par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*04-05-2021 08:08:35: Nouvelle Session Caisse Ouverte par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*04-05-2021 08:09:00: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *ZAGRE *IRENE *RESPONSABLECAISSE
+
+*ID USER = UT1057           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
+*04-05-2021 15:56:21: Enlevement d'un montant de 1200000 sur la caisse (ID CAISSE = CA011)par *GOZE *EDITHVIVIANEEPSEBAYOU *RESPONSABLECAISSE
+
+1200000
+
+*04-05-2021 17:49:48: Caisse Fermée par *AKA *ADJOBAMARIEAUDE *CAISSIER
+
+*04-05-2021 17:55:29: Fermeture de la session caisse par *GOZE *EDITHVIVIANEEPSEBAYOU *RESPONSABLECAISSE
+
+*04-05-2021 17:55:34: Nouvelle Session Caisse Ouverte par *GOZE *EDITHVIVIANEEPSEBAYOU *RESPONSABLECAISSE
+
+*04-05-2021 17:55:45: Affectation d'une caisse au niveau du site STATION DE YAMOUSSOUKRO par *GOZE *EDITHVIVIANEEPSEBAYOU *RESPONSABLECAISSE
+
+*ID USER = UT1094           *ID CAISSE = CA011            *MONTANT POURVU = 50000
+
